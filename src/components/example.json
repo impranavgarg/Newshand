@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "foxnews",
+        "name": "Fox News"
+      },
+      "author": "Associated Press",
+      "title": "Capitol Police recommend Jan. 6 officers for discipline  Fox News",
+      "description": "The U.S. Capitol Police said Saturday it has recommended disciplinary action in six cases after an internal review of officer behavior stemming from the Jan. 6 attack on the U.S. Capitol.",
+      "url": "https://www.foxnews.com/us/capitolpoliceofficersdiscipline",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/74bbceecAP21023678214475.jpg",
+      "publishedAt": "20210912T16:03:58Z",
+      "content": "The U.S. Capitol Police said Saturday it has recommended disciplinary action in six cases after an internal review of officer behavior stemming from the Jan. 6 attack on the U.S. Capitol.\r\nThe depart… [+2746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSL.com"
+      },
+      "author": "Josh Furlong, KSL.com",
+      "title": "Josh Furlong's AP Top 25: BYU moves into rankings as Utah drops out; Oregon makes jump  KSL.com",
+      "description": "The day started out so promising for the Pac12: Oregon did what the conference hadn't done in a long time.",
+      "url": "https://www.ksl.com/article/50239873/joshfurlongsaptop25byumovesintorankingsasutahdropsoutoregonmakesjump",
+      "urlToImage": "https://img.ksl.com/slc/2840/284099/28409950.jpeg?filter=ksl/responsive_story_lg",
+      "publishedAt": "20210912T16:01:19Z",
+      "content": "PROVO The day started out so promising for the Pac12: Oregon did what the conference hadn't done in a long time.\r\nThe Ducks went into enemy territory against a top5 program and came away with a win… [+2806 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jackson Dill, CNN Weather",
+      "title": "Tropical Storm Nicholas forms over Gulf of Mexico, with Texas in its path  CNN",
+      "description": "Tropical Storm Nicholas, the Atlantic hurricane season's 14th named storm, has formed in the Gulf of Mexico, the National Hurricane Center said.",
+      "url": "https://www.cnn.com/2021/09/12/weather/tropicalstormnicholastexasflood/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210912111502nicholastropicalstormrainfallsupertease.jpg",
+      "publishedAt": "20210912T15:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Eric Rosenbaum",
+      "title": "Dow, S&P 500 fears? Why worrying about a correction is still the wrong way to invest  CNBC",
+      "description": "After five days of losses for the Dow Jones Industrial Average and S&P 500, is the big correction coming? For investors, it's usually not worth thinking about.",
+      "url": "https://www.cnbc.com/2021/09/12/dowsp500fearsworryingaboutacorrectioniswrongwaytoinvest.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/1064420721584114835144nyse.jpg?v=1631450334",
+      "publishedAt": "20210912T15:10:33Z",
+      "content": "The Dow Jones Industrial Average and S&amp;P 500 Index just suffered five straight days of losses and their worst weekly performance since wait for it June. Investors went into the summer easing up a… [+8143 chars]"
+    },
+    {
+      "source": {
+        "id": "theverge",
+        "name": "The Verge"
+      },
+      "author": "Adi Robertson",
+      "title": "Breaking down the Epic v. Apple Fortnite trial ruling  The Verge",
+      "description": "On Friday, Judge Yvonne Gonzalez Rogers issued a ruling on Epic v. Apple, a precedential antitrust trial over Fortnite and the iOS App Store.",
+      "url": "https://www.theverge.com/2021/9/12/22667694/epicvappletrialfortnitejudgeyvonnegonzalezrogersfinalrulinginjunctionbreakdown",
+      "urlToImage": "https://cdn.voxcdn.com/thumbor/Ok7d_SBNPv8cARmuAf12aM31QKw=/0x184:3865x2208/fitin/1200x630/cdn.voxcdn.com/uploads/chorus_asset/file/22539006/IMG_2801.jpg",
+      "publishedAt": "20210912T15:03:42Z",
+      "content": "On Friday, a California judge ruled on the influential Epic v. Apple lawsuit, and both sides lost. Judge Yvonne Gonzalez Rogers concluded that Apple wasnt unfairly monopolizing the mobile app space w… [+18219 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Delilah Gray",
+      "title": "Ben Affleck Jumps in to Rescue Jennifer Lopez from Aggressive Fan at the Venice Airport  Yahoo Entertainment",
+      "description": "On September 11, Ben Affleck became Jennifer Lopez’s knightinshiningarmor as he protected her from an overenthusiastic fan. The beloved duo was leaving...",
+      "url": "https://www.yahoo.com/entertainment/benaffleckjumpsrescuejennifer145539443.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dL_v2yypLYVaaSiAKpOj7Q/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA/https://s.yimg.com/uu/api/res/1.2/GI17C277MxbnCbYj4kZClw~B/aD0xMDgwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg/https://media.zenfs.com/en/sheknows_79/9859108fda586a6d35263b32a1751002",
+      "publishedAt": "20210912T14:55:39Z",
+      "content": "On September 11, Ben Affleck became Jennifer Lopezs knightinshiningarmor as he protected her from an overenthusiastic fan. The beloved duo was leaving Marco Polo Airport in Venice, Italy, with a … [+1448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Jason Horowitz",
+      "title": "In Orban’s Hungary, Pope Urges Bishops to Embrace Diversity  The New York Times",
+      "description": "On a quick trip to the country, Francis met with Prime Minister Viktor Orban, Hungary’s hardright leader, before celebrating a public Mass.",
+      "url": "https://www.nytimes.com/2021/09/12/world/europe/popefrancisviktororbanhungary.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/09/12/world/12pope1/12pope1facebookJumbo.jpg",
+      "publishedAt": "20210912T14:35:12Z",
+      "content": "Appearing strong after having about 13 inches of his colon removed in early July, Francis, 84, spoke about how religious sentiment, with which Mr. Orban imbues much of his political talk, not only in… [+1292 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ben Morse, CNN",
+      "title": "Evander Holyfield loses comeback fight while Trump commentates  CNN",
+      "description": "Former world champion boxer Evander Holyfield stepped back in the ring for the first time in over a decade, but it didn't go quite to plan for the 58yearold.",
+      "url": "https://www.cnn.com/2021/09/12/sport/evanderholyfieldvitorbelfortdonaldtrumpsptintl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/21091210105501evanderholyfieldvitorbelfort09112021supertease.jpg",
+      "publishedAt": "20210912T14:21:00Z",
+      "content": "(CNN)Former world champion boxer Evander Holyfield stepped back in the ring for the first time in over a decade, but it didn't go quite to plan for the 58yearold. \r\nHolyfield, who is best known for… [+1968 chars]"
+    },
+    {
+      "source": {
+        "id": "thewashingtonpost",
+        "name": "The Washington Post"
+      },
+      "author": "Timothy Bella",
+      "title": "A hospital will no longer deliver babies after staffers resign over coronavirus vaccine mandate  The Washington Post",
+      "description": "At least six unvaccinated maternity staffers at Lewis County General Hospital in New York have resigned in recent days and seven others remain undecided on whether to get vaccinated.",
+      "url": "https://www.washingtonpost.com/health/2021/09/12/nyhospitalbabiesvaccinemandate/",
+      "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/ORGLEQDWO4I6TJ57ZCSDXBHOGE.jpg&w=1440",
+      "publishedAt": "20210912T14:10:58Z",
+      "content": "The number of resignations received leaves us no choice but to pause delivering babies at Lewis County General Hospital, Cayer said. It is my hope that the [New York State] Department of Health will … [+4132 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "AlQaeda leader appears in new video on 9/11 anniversary  Axios",
+      "description": "Rumors spread last fall that Osama bin Laden's former No. 2 had died from an illness.",
+      "url": "https://www.axios.com/alqaedaleadervideo911anniversaryf00a2264bebc4dd89f76f64bd12d6c79.html",
+      "urlToImage": "https://images.axios.com/xDV9UShBh3bXbdHYHrnt71ekxwU=/0x0:1400x788/1366x768/2021/09/12/1631452598333.jpg",
+      "publishedAt": "20210912T14:08:33Z",
+      "content": "AlQaeda chief Ayman alZawahri appeared in a new video released on Saturday, the 20th anniversary of the 9/11 attacks, according to the Associated Press. \r\nWhy it matters: Last November, rumors spre… [+1415 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "David Cohen",
+      "title": "Surgeon general: New vaccine policies neither illegal nor unusual  POLITICO",
+      "description": "“We have to put this in context,” Vivek Murthy said.",
+      "url": "https://www.politico.com/news/2021/09/12/surgeongeneralvaccinepolicieslegal511457",
+      "urlToImage": "https://static.politico.com/d9/4c/d18e8da84a8898084381df797e72/210718murthyap773.jpg",
+      "publishedAt": "20210912T14:07:36Z",
+      "content": "Critics accused the president of exceeding his legal authority, a notion that Murthy rejected.\r\nThese are focused on areas where the federal government has legal authority to act, he said, adding: We… [+1207 chars]"
+    },
+    {
+      "source": {
+        "id": "theverge",
+        "name": "The Verge"
+      },
+      "author": "Kim Lyons",
+      "title": "Honda and Toyota criticize Democrats’ proposed tax credit for unionmade electric vehicles  The Verge",
+      "description": "Under a new proposal,  US unionmade EVs would be eligible for a much larger tax credit of $12,500 than other electric vehicles, which Honda and Toyota are criticizing as unfair to nonunion US auto workers.",
+      "url": "https://www.theverge.com/2021/9/12/22669809/hondatoyotacriticizedemocratsproposedtaxcreditunionmadeelectricvehicles",
+      "urlToImage": "https://cdn.voxcdn.com/thumbor/9BQENQJ2uBXwVwKZVQGDEm_A4jQ=/0x349:4875x2901/fitin/1200x630/cdn.voxcdn.com/uploads/chorus_asset/file/22399515/P90375018_highRes.jpg",
+      "publishedAt": "20210912T13:59:41Z",
+      "content": "The proposal would provide $12,500 credit for US unionmade EVs\r\nAn electric vehicle plugged into a charging station. A new proposal would boost the tax credit for US unionmade EVs.\r\nHonda and Toyot… [+1709 chars]"
+    },
+    {
+      "source": {
+        "id": "thewashingtonpost",
+        "name": "The Washington Post"
+      },
+      "author": "Danielle Abril, Gerrit De Vynck",
+      "title": "Texas' abortion law has tech workers reconsidering moving to the state  The Washington Post",
+      "description": "Tech workers are marking Texas off the list of places they'd consider working after the state passed the nation's most restrictive abortion law.",
+      "url": "https://www.washingtonpost.com/technology/2021/09/12/texasabortionlawtechworkersreconsideringrelocation/",
+      "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/YDXVN5QPFUI6ZOWKQ2YUJ7EKFU.jpg&w=1440",
+      "publishedAt": "20210912T13:45:48Z",
+      "content": "Im not a politician; I cant change anything. But Im still responsible for my employees in Texas, and I have a moral responsibility to them, said Bhaskaran, CEO of QuestionPro.\r\nFor the past several y… [+6675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "Kuo: AirPods 3 to be announced at September event, AirPods 2 to remain in the lineup  9to5Mac",
+      "description": "In a report from reliable analyst MingChi Kuo today, Apple is said to be announcing the new generation of AirPods as part of Tuesday’s iPhone 13 event. The new ‘AirPods 3’ will be the new version of Apple’s AirPods earbuds, which were last refreshed in March…",
+      "url": "http://9to5mac.com/2021/09/12/kuoairpods3tobeannouncedatseptembereventairpods2toremaininthelineup/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2021/03/ClaimedAirPods3renders.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "20210912T13:21:00Z",
+      "content": "In a report from reliable analyst MingChi Kuo today, Apple is said to be announcing the new generation of AirPods as part of Tuesday’s iPhone 13 event. The new ‘AirPods 3’ will be the new version of… [+2216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Mike Florio",
+      "title": "Report: 49ers traded up to keep Patriots from getting Mac Jones (not a typo)  NBC Sports",
+      "description": "When the 49ers traded up from No. 12 to No. 3 in March, they did it with various objectives. One did not come to fruition. According to Adam Schefter of ESPN.com, the 49ers made the move in order to ensure they would get Alabama quarterback Mac Jones, if the …",
+      "url": "https://profootballtalk.nbcsports.com/2021/09/12/report49erstradeduptokeeppatriotsfromgettingmacjonesnotatypo/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wpcontent/uploads/sites/25/2021/09/GettyImages1337505966e1631450202308.jpg",
+      "publishedAt": "20210912T12:41:00Z",
+      "content": "When the 49ers traded up from No. 12 to No. 3 in March, they did it with various objectives. One did not come to fruition.\r\nAccording to Adam Schefter of ESPN.com, the 49ers made the move in order to… [+3215 chars]"
+    },
+    {
+      "source": {
+        "id": "nbcnews",
+        "name": "NBC News"
+      },
+      "author": "Chantal Da Silva, The Associated Press",
+      "title": "FBI releases declassified document into Saudi 9/11 links after Biden order  NBC News",
+      "description": "The FBI has released a newly declassified document on the 9/11 terror attacks. It offered no evidence that Saudi Arabia's government was complicit in the plot.",
+      "url": "https://www.nbcnews.com/news/usnews/fbireleasesdeclassifieddocumentsaudi911linksafterbidenn1278997",
+      "urlToImage": "https://mediacldnry.snbcnews.com/image/upload/t_nbcnewsfp1200630,f_auto,q_auto:best/newscms/2021_36/3505199/210912sept11memorialha.JPG",
+      "publishedAt": "20210912T12:06:00Z",
+      "content": "The FBI released a newly declassified document on the 9/11 attacks Saturday, revealing details on the logistical support given to two of the Saudi hijackers in the leadup to the terrorist attacks, a… [+3075 chars]"
+    },
+    {
+      "source": {
+        "id": "usatoday",
+        "name": "USA Today"
+      },
+      "author": "Christal Hayes and Joel Shannon, USA TODAY",
+      "title": "California's recall election of Gov. Gavin Newsom is Tuesday. Here's what's at stake.  USA TODAY",
+      "description": "An upset of Gov. Gavin Newsom in Tuesday's recall vote could have political implications well beyond California.",
+      "url": "https://www.usatoday.com/story/news/nation/2021/09/12/californiarecallelectiongavinnewsomwhatsatstake/5781406001/",
+      "urlToImage": "https://www.gannettcdn.com/presto/2021/09/07/USAT/a426355e2051487d810ada2077e04f35biden_and_newsom_video.jpg?auto=webp&crop=5552,3123,x0,y186&format=pjpg&width=1200",
+      "publishedAt": "20210912T12:00:53Z",
+      "content": "LOS ANGELES – The governorship of California is just one piece of what is at stake in this week's historic recall election of Gavin Newsom. An upset in the race to remove the liberal leader — in a st… [+11683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Chris Matyszczyk",
+      "title": "Microsoft quietly revealed the deeper secrets of Windows 11 (you may be stunned)  ZDNet",
+      "description": "You think you completely get where Microsoft is coming from with Windows 11? Please think again. There's so much more.",
+      "url": "https://www.zdnet.com/article/microsoftquietlyrevealedthedeepersecretsofwindows11youmaybestunned/",
+      "urlToImage": "https://www.zdnet.com/a/hub/i/r/2021/09/07/1acf2770722e4cc296ab2efc2693286f/thumbnail/770x578/20be7c07442cc675a61e30300c79365b/screenshot20210907at33419pm.png",
+      "publishedAt": "20210912T12:00:02Z",
+      "content": "New life. Blue life.\r\nScreenshot by ZDNet\r\nYou're now completely prepared for October 5.\r\nYou've researched whether your computer will be compatible. If it isn't (officially), you'll have tried to fi… [+3189 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": null,
+      "title": "'A dream': Emma Raducanu comes to terms with first major title at US Open – video  The Guardian",
+      "description": "Britain's Emma Raducanu has made tennis history at the US Open after the 18yearold became the first qualifier in history to win a major tournament",
+      "url": "https://www.theguardian.com/sport/video/2021/sep/12/emmaraducanudreamfirstmajortitleusopentennisvideo",
+      "urlToImage": "https://i.guim.co.uk/img/media/1e1d7eec9a2771c475205e8370e126edb3d22c20/0_66_4838_2902/master/4838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlayalign=bottom%2Cleft&overlaywidth=100p&overlaybase64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a3f30012e851408193250f58c6e8214",
+      "publishedAt": "20210912T11:28:13Z",
+      "content": "Britain's Emma Raducanu has made tennis history at the US Open after the 18yearold became the first qualifier in history to win a major tournament. The triumph comes after a 44 year wait for a Brit… [+346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Will Stone",
+      "title": "What A 'Mild' Breakthrough COVID Case Feels Like : Shots  Health News  NPR",
+      "description": "After a year and a half of being COVIDcautious, a fully vaccinated health journalist thought he he could finally travel and socialize this summer. The resulting illness didn't feel 'mild' at all.",
+      "url": "https://www.npr.org/sections/healthshots/2021/09/12/1036356773/igotamildbreakthroughcasehereswhatiwishidknown",
+      "urlToImage": "https://media.npr.org/assets/img/2021/09/11/gettyimages1217319639_widef61088ec8853ee4741a3ad5834a27b669ee3e3ce.jpg?s=1400",
+      "publishedAt": "20210912T11:02:01Z",
+      "content": "A 'mild' breakthrough COVID19 infection may not feel mild at all.\r\nTowfiqu Barbhuiya / EyeEm/Getty Images/EyeEm\r\nThe test results that hot day in early August shouldn't have surprised me all the sym… [+14587 chars]"
+    }
+  ]
+}
