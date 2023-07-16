@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Newshand/static/css/main.073c9b0a.css",
+    "main.js": "/Newshand/static/js/main.11c8a201.js",
+    "static/js/787.862ec6e9.chunk.js": "/Newshand/static/js/787.862ec6e9.chunk.js",
+    "index.html": "/Newshand/index.html",
+    "main.073c9b0a.css.map": "/Newshand/static/css/main.073c9b0a.css.map",
+    "main.11c8a201.js.map": "/Newshand/static/js/main.11c8a201.js.map",
+    "787.862ec6e9.chunk.js.map": "/Newshand/static/js/787.862ec6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.11c8a201.js"
+  ]
+}

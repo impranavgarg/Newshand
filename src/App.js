@@ -8,7 +8,7 @@ import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 export default class App extends Component {
   render() {
     return (
-      <div>
+      <div className="bg-dark">
         <Router>
           <NavBar />
           <Switch>
